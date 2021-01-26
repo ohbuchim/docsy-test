@@ -1,5 +1,5 @@
-baseURL = "https://ohbuchim.github.io/docsy-test"
-title = "Goldydocs"
+baseURL = "https://ohbuchim.github.io/"
+title = "ML portal"
 
 enableRobotsTXT = true
 
